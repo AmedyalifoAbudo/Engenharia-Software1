@@ -1,0 +1,6 @@
+1. git add teste.txt
+2. git commit -m `informacao`
+3.git pull origin master
+4.git push origin master
+password and email
+t
